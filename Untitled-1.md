@@ -1,1 +1,0 @@
-https://github.com/pagecow/stripe-subscribe-payments/tree/main/client
